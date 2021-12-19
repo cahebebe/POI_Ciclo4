@@ -10,7 +10,7 @@
       "longitude": -75.5819615
     },
     {
-      "name": "Centro Administrativo La Alpujarra",
+      "name": "Centro Administrativo Alpujarra",
       "picture": "https://upload.wikimedia.org/wikipedia/commons/c/c7/La_Raza-Rodrigo_Arenas_Betancourt.JPG",
       "description": "Es un conjunto urbanístico de edificaciones desde donde se administran los gobiernos Departamental de Antioquia y Municipal de Medellín.",
       "rate": "7/10",
@@ -51,6 +51,17 @@
       "rate": "8/10",
       "latitude": 6.2498818,
       "longitude": -75.5686483
+    },
+
+    {
+      "name": "Feria internacional del caballo",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Plaza_de_Bol%C3%ADvar_en_Bogot%C3%A1_%28Colombia%29.jpg",
+      "description": "La plaza de Bolívar es la plaza principal de la ciudad de Bogotá y de Colombia. Está ubicada en el centro de la ciudad, entre las carreras Séptima y Octava con calles Décima y Once.",
+      "rate": "9/10",
+      "latitude": 4.5981259,
+      "longitude": -74.0782322
     }
   ]
 }
+
+
