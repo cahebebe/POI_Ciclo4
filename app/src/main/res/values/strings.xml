@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Puntos de Interés</string>
+    <string name="config">Configuración</string>
+    <string name="activar_sonido">Sonido Activado</string>
+    <string name="permitir_notificaciones">Permitir Notificaciones</string>
+    <string name="imagen">Imagen</string>
+    <string name="ubicacion">Ubicacion</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="informaci_n_general">Información General</string>
+    <string name="sitios">Sitios</string>
+    <string name="nombrepoi">Nombre del POI</string>
+    <string name="calificacion">Calificación</string>
+
+</resources>

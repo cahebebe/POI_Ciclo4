@@ -1,0 +1,12 @@
+net/procesamos/poi/databinding/ActivityMainBinding.java
+ net.procesamos.poi.databinding.ActivityMainBinding
+net/procesamos/poi/databinding/ActivityDetailBinding.java
+ net.procesamos.poi.databinding.ActivityDetailBinding
+net/procesamos/poi/databinding/FragmentListBinding.java
+ net.procesamos.poi.databinding.FragmentListBinding
+net/procesamos/poi/databinding/ActivityPoiListBinding.java
+ net.procesamos.poi.databinding.ActivityPoiListBinding
+net/procesamos/poi/databinding/FragmentPoiDetailBinding.java
+ net.procesamos.poi.databinding.FragmentPoiDetailBinding
+net/procesamos/poi/BuildConfig.java
+ net.procesamos.poi.BuildConfig

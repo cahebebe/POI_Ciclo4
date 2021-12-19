@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\caheb\\UdeACiclo4Movil\\POI_Ciclo4\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_list.xml",
+        "source": "C:\\Users\\caheb\\UdeACiclo4Movil\\POI_Ciclo4\\app\\src\\main\\res\\layout\\fragment_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\caheb\\UdeACiclo4Movil\\POI_Ciclo4\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_poi_list.xml",
+        "source": "C:\\Users\\caheb\\UdeACiclo4Movil\\POI_Ciclo4\\app\\src\\main\\res\\layout\\activity_poi_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\caheb\\UdeACiclo4Movil\\POI_Ciclo4\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\caheb\\UdeACiclo4Movil\\POI_Ciclo4\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\caheb\\UdeACiclo4Movil\\POI_Ciclo4\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_detail.xml",
+        "source": "C:\\Users\\caheb\\UdeACiclo4Movil\\POI_Ciclo4\\app\\src\\main\\res\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\caheb\\UdeACiclo4Movil\\POI_Ciclo4\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_poi_detail.xml",
+        "source": "C:\\Users\\caheb\\UdeACiclo4Movil\\POI_Ciclo4\\app\\src\\main\\res\\layout\\fragment_poi_detail.xml"
+    }
+]
