@@ -43,7 +43,7 @@ class ListFragment : Fragment() {
                 DividerItemDecoration.VERTICAL
             )
         )
-        adapterPOIs = POIsAdapter(mutablePOIs, recyclerPOIs.context)  { POI ->
+        adapterPOIs = POIsAdapter(mutablePOIs, recyclerPOIs.context) { POI ->
             poiOnClick(POI)
         }
         recyclerPOIs.adapter = adapterPOIs
@@ -81,7 +81,7 @@ class ListFragment : Fragment() {
         findNavController().navigate(R.id.actionFromListToDetail, detailBundle)
     }
 
-    private fun generatePOIs(){
+    private fun generatePOIs() {
         APIClient.apiService.getPOIs().enqueue(object : Callback<MutableList<POIsModels>> {
             override fun onFailure(call: Call<MutableList<POIsModels>>, t: Throwable) {
                 Log.e("Error", t.message.toString())
