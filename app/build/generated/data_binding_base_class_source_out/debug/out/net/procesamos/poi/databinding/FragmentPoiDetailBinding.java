@@ -32,14 +32,19 @@ public final class FragmentPoiDetailBinding implements ViewBinding {
   @NonNull
   public final TextView nombreCiudad;
 
+  @NonNull
+  public final TextView temperatura;
+
   private FragmentPoiDetailBinding(@NonNull ConstraintLayout rootView,
       @NonNull TextView calificacion, @NonNull TextView descripcion,
-      @NonNull ImageView imagenPrincipal, @NonNull TextView nombreCiudad) {
+      @NonNull ImageView imagenPrincipal, @NonNull TextView nombreCiudad,
+      @NonNull TextView temperatura) {
     this.rootView = rootView;
     this.calificacion = calificacion;
     this.descripcion = descripcion;
     this.imagenPrincipal = imagenPrincipal;
     this.nombreCiudad = nombreCiudad;
+    this.temperatura = temperatura;
   }
 
   @Override
@@ -93,8 +98,14 @@ public final class FragmentPoiDetailBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.temperatura;
+      TextView temperatura = ViewBindings.findChildViewById(rootView, id);
+      if (temperatura == null) {
+        break missingId;
+      }
+
       return new FragmentPoiDetailBinding((ConstraintLayout) rootView, calificacion, descripcion,
-          imagenPrincipal, nombreCiudad);
+          imagenPrincipal, nombreCiudad, temperatura);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

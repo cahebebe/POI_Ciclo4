@@ -35,15 +35,20 @@ public final class ActivityPoiListBinding implements ViewBinding {
   @NonNull
   public final TextView poiRate;
 
+  @NonNull
+  public final TextView poiTemperature;
+
   private ActivityPoiListBinding(@NonNull ConstraintLayout rootView,
       @NonNull TextView poiDescription, @NonNull ImageView poiLogoLocation,
-      @NonNull TextView poiName, @NonNull ImageView poiPicture, @NonNull TextView poiRate) {
+      @NonNull TextView poiName, @NonNull ImageView poiPicture, @NonNull TextView poiRate,
+      @NonNull TextView poiTemperature) {
     this.rootView = rootView;
     this.poiDescription = poiDescription;
     this.poiLogoLocation = poiLogoLocation;
     this.poiName = poiName;
     this.poiPicture = poiPicture;
     this.poiRate = poiRate;
+    this.poiTemperature = poiTemperature;
   }
 
   @Override
@@ -103,8 +108,14 @@ public final class ActivityPoiListBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.poiTemperature;
+      TextView poiTemperature = ViewBindings.findChildViewById(rootView, id);
+      if (poiTemperature == null) {
+        break missingId;
+      }
+
       return new ActivityPoiListBinding((ConstraintLayout) rootView, poiDescription,
-          poiLogoLocation, poiName, poiPicture, poiRate);
+          poiLogoLocation, poiName, poiPicture, poiRate, poiTemperature);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

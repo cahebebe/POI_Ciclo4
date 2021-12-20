@@ -6,6 +6,7 @@
       "picture": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Nutibara.jpg",
       "description": "El Cerro Nutibara es una pequeña formación montañosa ubicada en la ciudad colombiana de Medellín, en el centro geográfico del Valle de Aburrá.",
       "rate": "8/10",
+      "temperature": 21,
       "latitude": 6.2358197,
       "longitude": -75.5819615
     },
@@ -14,6 +15,7 @@
       "picture": "https://upload.wikimedia.org/wikipedia/commons/c/c7/La_Raza-Rodrigo_Arenas_Betancourt.JPG",
       "description": "Es un conjunto urbanístico de edificaciones desde donde se administran los gobiernos Departamental de Antioquia y Municipal de Medellín.",
       "rate": "7/10",
+      "temperature": 20,
       "latitude": 6.2438586,
       "longitude": -75.5733312
     },
@@ -22,6 +24,7 @@
       "picture": "https://upload.wikimedia.org/wikipedia/commons/1/18/El_Castillo-exterior.JPG",
       "description": "Es un museo de la ciudad colombiana de Medellín, ofrece exposiciones permanentes de objetos en porcelana y cristal, entre otros.",
       "rate": "7/10",
+      "temperature": 22,
       "latitude": 6.190109,
       "longitude": -75.5716463
     },
@@ -31,6 +34,7 @@
       "picture": "https://upload.wikimedia.org/wikipedia/commons/e/ee/ArrierosMulasFondasUrrao.JPG",
       "description": "Arrieros mulas y fondas es uno de los espectáculos más concurridos de la Feria de las flores de la ciudad de Medellín, Colombia.",
       "rate": "8/10",
+      "temperature": 21,
       "latitude": 6.1909475,
       "longitude": -75.5857153
     },
@@ -40,6 +44,7 @@
       "picture": "https://upload.wikimedia.org/wikipedia/commons/0/0e/CabalgataFiestaFloresMedell%C3%ADn.jpg",
       "description": "Feria internacional del caballo o cabalgata (Medellín). Evento equino y ecuestre que se celebra anualmente en esta ciudad, por tradición de marcada vocación caballista.",
       "rate": "8/10",
+      "temperature": 23,
       "latitude": 6.1909422,
       "longitude": -75.5835266
     },
@@ -49,6 +54,7 @@
       "picture": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Pedro_Justo_Berrio-Estatua-Medellin.JPG",
       "description": "Es un parque urbano ubicado en pleno corazón geográfico de la ciudad colombiana de Medellín.",
       "rate": "8/10",
+      "temperature": 22,
       "latitude": 6.2498818,
       "longitude": -75.5686483
     },
@@ -58,6 +64,7 @@
       "picture": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Plaza_de_Bol%C3%ADvar_en_Bogot%C3%A1_%28Colombia%29.jpg",
       "description": "La plaza de Bolívar es la plaza principal de la ciudad de Bogotá y de Colombia. Está ubicada en el centro de la ciudad, entre las carreras Séptima y Octava con calles Décima y Once.",
       "rate": "9/10",
+      "temperature": 18,
       "latitude": 4.5981259,
       "longitude": -74.0782322
     },
@@ -67,6 +74,7 @@
       "picture": "https://upload.wikimedia.org/wikipedia/commons/0/06/Paisaje_Villa_de_Leyva.JPG",
       "description": "Villa de Leyva es un municipio colombiano ubicado en la provincia de Ricaurte del departamento de Boyacá. Está ubicado a 40 km al occidente de Tunja, capital del departamento, y a 165 km de Bogotá, capital del país. Fue fundado en 1572 con el nombre de Villa de Santa María de Leyva y reconocido como monumento nacional en 1954.",
       "rate": "6/10",
+      "temperature": 16,
       "latitude": 5.6330556,
       "longitude": -73.5255556
     },
@@ -76,6 +84,7 @@
       "picture": "https://upload.wikimedia.org/wikipedia/commons/4/43/Panor%C3%A1mica_de_San_Andres.JPG",
       "description": "El Archipiélago de San Andrés, Providencia y Santa Catalina (en inglés y criollo sanandresano: Archipelago of San Andrés, Providencia and Santa Catalina) es uno de los treinta y dos departamentos que, junto con Bogotá, Distrito Capital, forman la República de Colombia. Su capital es San Andrés.",
       "rate": "7/10",
+      "temperature": 25,
       "latitude": 12.55000,
       "longitude": -81.71666667
     },
@@ -85,6 +94,7 @@
       "picture": "https://upload.wikimedia.org/wikipedia/commons/8/88/Puente_sobre_Fuente_del_Lavapatas%2C_Parque_Arqueol%C3%B3gico_de_San_Agust%C3%ADn.JPG",
       "description": "El parque arqueológico de San Agustín es uno de los más importantes espacios arqueológicos de Colombia, ubicado al sur del departamento del Huila. Fue fundado el 20 de noviembre de 1935, durante el gobierno del presidente liberal Alfonso López Pumarejo, y en 1995 fue declarado Patrimonio de la Humanidad por la Unesco. Es la necrópolis de mayor extensión a nivel mundial.",
       "rate": "10/10",
+      "temperature": 19,
       "latitude": 1.91667,
       "longitude": -76.2333
     }

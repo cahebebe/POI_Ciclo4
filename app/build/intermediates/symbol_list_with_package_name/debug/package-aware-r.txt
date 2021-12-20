@@ -2283,6 +2283,7 @@ id poiLogoLocation
 id poiName
 id poiPicture
 id poiRate
+id poiTemperature
 id position
 id postLayout
 id progress_circular
@@ -2380,6 +2381,7 @@ id tag_transition_group
 id tag_unhandled_key_event_manager
 id tag_unhandled_key_listeners
 id tag_window_insets_animation_callback
+id temperatura
 id test_checkbox_android_button_tint
 id test_checkbox_app_button_tint
 id test_radiobutton_android_button_tint
@@ -2751,6 +2753,7 @@ string search_menu_title
 string sitios
 string status_bar_notification_info_overflow
 string summary_collapsed_preference_list
+string temperatura
 string ubicacion
 string v7_preference_off
 string v7_preference_on

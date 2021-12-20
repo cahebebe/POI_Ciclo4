@@ -36,6 +36,13 @@ android {
     buildFeatures {
         viewBinding true
     }
+    sourceSets {
+        main {
+            java {
+                srcDirs 'src\\main\\java', 'src\\main\\java\\net\\procesamos\\poi\\activity', 'src\\main\\java\\net\\procesamos\\poi\\adapter', 'src\\main\\java\\net\\procesamos\\poi\\fragment', 'src\\main\\java\\net\\procesamos\\poi\\model'
+            }
+        }
+    }
 }
 
 dependencies {

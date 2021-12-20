@@ -2,6 +2,7 @@ package net.procesamos.poi
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import net.procesamos.poi.R
 
 class DetailActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
